@@ -1,4 +1,3 @@
-# /system_metrics/__init__.py
 from .cpu_metrics import get_cpu_usage
 from .ram_metrics import get_ram_usage
 from .disk_metrics import get_disk_usage

@@ -1,4 +1,3 @@
-# /home/dgolding/scripts/system_metrics/metrics_logger.py
 import os
 import json
 import time
