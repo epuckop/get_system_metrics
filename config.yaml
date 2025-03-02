@@ -1,0 +1,9 @@
+# /home/dgolding/scripts/config.yaml
+metrics_logger:
+  log_dir: './logs'
+  log_levels: 
+    - normal
+    - warning
+    - critical
+  timezone: 'Asia/Jerusalem'
+  log_format: 'json'
