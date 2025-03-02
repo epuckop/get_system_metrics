@@ -7,11 +7,6 @@ A Python utility for retrieving and monitoring system metrics.
 - Collect system performance metrics
 - Easy-to-use interface
 
-## Installation
-```bash
-pip install get_system_metrics
-```
-
 ## Usage
 ```python
 from get_system_metrics import SystemMetrics
